@@ -1,9 +1,9 @@
 # my-python-tool
-Overview
+## Overview
 
 Python is a flexible and powerful programming language increasingly used in development research for data cleaning, analysis, visualization, and reproducible workflows. While Stata and R are commonly used in DIME, Python is ideal for data pipelines, API access, automation, and integrating with machine learning and natural language processing tools.
 
-Installation
+## Installation
 
 First, you can check if Python is already installed on your computer. To do this open your terminal (Command Prompt or Terminal) and type:
  <code>python --version</code>
@@ -12,11 +12,28 @@ or
 
 Otherwise you can install python using this [https://wiki.python.org/moin/BeginnersGuide/Download/ beginners guide]. 
 
-==Creating a Virtual Environment==
+## Creating a Virtual Environment
 
-==Installing Packages==
+Always create a virtual environment for each project to isolate dependencies and improve reproducibility.
 
-==Data Types== 
+*Create a new environment:
 
-==Loops in Python==
+<code>python -m venv venv</code>
+
+*Activate the environment (Windows):
+
+<code>venv\Scripts\activate</code>
+
+*Activate the environment (macOS/Linux):
+
+<code>source venv/bin/activate</code>
+
+Once activated, you can install project-specific packages without affecting your global Python setup.
+
+
+## Installing Packages
+
+## Data Types
+
+## Loops in Python
 
