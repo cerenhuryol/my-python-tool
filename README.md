@@ -50,8 +50,21 @@ conda install pandas numpy matplotlib jupyter
 ```
 
 
-
 ## Data Types
+
+Understanding data types is key to avoiding bugs in analysis and loops:
+
+| Type       | Example         | Description               |
+| ---------- | --------------- | ------------------------- |
+| `int`      | `x = 5`         | Integer                   |
+| `float`    | `x = 5.2`       | Decimal number            |
+| `str`      | `x = "text"`    | String (text)             |
+| `bool`     | `x = True`      | Boolean (`True`, `False`) |
+| `list`     | `x = [1, 2, 3]` | Ordered collection        |
+| `dict`     | `x = {"a": 1}`  | Key-value pairs           |
+| `NoneType` | `x = None`      | Null equivalent           |
+
+Use type(x) to check the data type of a variable.
 
 ## Loops in Python
 
