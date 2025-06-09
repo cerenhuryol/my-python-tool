@@ -37,10 +37,6 @@ Use <code>pip</code> to install packages, and document them in a requirements.tx
 {
  "cells": [
   {
-   "cell_type": "code",
-   "metadata": {},
-   "outputs": [],
-   "source": [
 "pip install pandas numpy matplotlib jupyter\n"
 "pip freeze > requirements.txt\n"
 ]
