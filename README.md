@@ -43,9 +43,11 @@ pip freeze > requirements.txt
  
 Or use <code>conda</code> if you're managing environments with Anaconda/Miniconda:
 
-<code>conda create --name myenv python=3.10
+```python
+conda create --name myenv python=3.10
 conda activate myenv
-conda install pandas numpy matplotlib jupyter</code>
+conda install pandas numpy matplotlib jupyter
+```
 
 
 
