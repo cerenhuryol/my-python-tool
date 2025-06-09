@@ -64,7 +64,7 @@ Understanding data types is key to avoiding bugs in analysis and loops:
 | `dict`     | `x = {"a": 1}`  | Key-value pairs           |
 | `NoneType` | `x = None`      | Null equivalent           |
 
-Use type(x) to check the data type of a variable.
+Use `type(x)` to check the data type of a variable.
 
 ## Loops in Python
 
