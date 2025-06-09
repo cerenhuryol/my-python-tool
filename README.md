@@ -17,5 +17,6 @@ Otherwise you can install python using this [https://wiki.python.org/moin/Beginn
 ==Installing Packages==
 
 ==Data Types== 
+
 ==Loops in Python==
 
