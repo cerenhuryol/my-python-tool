@@ -34,9 +34,16 @@ Once activated, you can install project-specific packages without affecting your
 ## Installing Packages
 
 Use <code>pip</code> to install packages, and document them in a requirements.txt file:
-
- <code>pip install pandas numpy matplotlib jupyter
- pip freeze > requirements.txt</code>
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "metadata": {},
+    "source": [
+"pip install pandas numpy matplotlib jupyter"
+"pip freeze > requirements.txt"
+]
+}
  
 Or use <code>conda</code> if you're managing environments with Anaconda/Miniconda:
 
@@ -44,7 +51,19 @@ Or use <code>conda</code> if you're managing environments with Anaconda/Minicond
  conda activate myenv
  conda install pandas numpy matplotlib jupyter</code>
 
-
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import requests #html requestor\n",
+    "from bs4 import BeautifulSoup #html parser\n",
+    "import pandas as pd #dataframe manipulator"
+   ]
+  },
 
 ## Data Types
 
