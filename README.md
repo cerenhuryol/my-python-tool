@@ -12,6 +12,10 @@ or
 
 Otherwise you can install python using this [https://wiki.python.org/moin/BeginnersGuide/Download/ beginners guide]. 
 
-Creating a Virtual Environment
+==Creating a Virtual Environment==
 
-Installing Packages
+==Installing Packages==
+
+==Data Types== 
+==Loops in Python==
+
