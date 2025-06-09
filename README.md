@@ -68,3 +68,16 @@ Use `type(x)` to check the data type of a variable.
 
 ## Loops in Python
 
+Loops are often used in automation, batch operations, and simulations. Use them responsibly—Python is slower than R or Stata for large, row-wise operations.
+
+##<code>for</code> loop
+```python
+for i in range(5):
+    print(i)
+```
+##Looping Through Lists 
+```python
+names = ['Alice', 'Bob', 'Ceren']
+for name in names:
+    print(f"Hello {name}")
+```
