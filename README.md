@@ -33,6 +33,19 @@ Once activated, you can install project-specific packages without affecting your
 
 ## Installing Packages
 
+Use <code>pip</code> to install packages, and document them in a requirements.txt file:
+
+ <code></code>pip install pandas numpy matplotlib jupyter
+ pip freeze > requirements.txt</code>
+ 
+ Or use <code>conda</code> if you're managing environments with Anaconda/Miniconda:
+
+ <code>conda create --name myenv python=3.10
+ conda activate myenv
+ conda install pandas numpy matplotlib jupyter</code>
+
+
+
 ## Data Types
 
 ## Loops in Python
