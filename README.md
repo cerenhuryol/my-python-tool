@@ -10,7 +10,7 @@ First, you can check if Python is already installed on your computer. To do this
 or 
  <code>python3 --version</code>
 
-Otherwise you can install python using this ([beginners guide](https://wiki.python.org/moin/BeginnersGuide/Download/)). (available [here](https://osf.io/agn68/)).
+Otherwise you can install python using this [beginners guide](https://wiki.python.org/moin/BeginnersGuide/Download/).
 
 ## Creating a Virtual Environment
 
