@@ -85,10 +85,10 @@ for name in names:
 
 ## Web Scraping 
 
-Web scraping means to extract and arrange data from a web page. (Here)[https://github.com/worldbank/dime-python-training/blob/main/I%20-%20Introduction/archive/web%20scraping%20example/Web-scraping%20basic%20example.ipynb] you can find a basic example for web scraping. For the training session recording, please refer to the related trainings. 
+Web scraping means to extract and arrange data from a web page. [Here](https://github.com/worldbank/dime-python-training/blob/main/I%20-%20Introduction/archive/web%20scraping%20example/Web-scraping%20basic%20example.ipynb) you can find a basic example for web scraping. For the training session recording, please refer to the related trainings. 
 
 ## Related DIME Analytics Trainings
 
-*[https://osf.io/8sgrh/files/osfstorage/5fd2f84c0694b7013af371fd/ Introduction to Python]
-*[https://osf.io/8sgrh/files/osfstorage/6040d32267386c040561d343/ Introduction to Python and Web Scraping]
-*[https://osf.io/8sgrh/files/osfstorage/605c0b5dfbc498004a402ff7/ Introduction to APIs]
+*[Intro to Python](https://osf.io/8sgrh/files/osfstorage/5fd2f84c0694b7013af371fd/)
+*[Introduction to Python and Web Scraping](https://osf.io/8sgrh/files/osfstorage/6040d32267386c040561d343/)
+*[Intro to APIs](https://osf.io/8sgrh/files/osfstorage/605c0b5dfbc498004a402ff7/)
