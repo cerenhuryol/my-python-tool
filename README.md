@@ -16,15 +16,15 @@ Otherwise you can install python using this [beginners guide](https://wiki.pytho
 
 Always create a virtual environment for each project to isolate dependencies and improve reproducibility.
 
-*Create a new environment:
+* Create a new environment:
 
 <code>python -m venv venv</code>
 
-*Activate the environment (Windows):
+* Activate the environment (Windows):
 
 <code>venv\Scripts\activate</code>
 
-*Activate the environment (macOS/Linux):
+* Activate the environment (macOS/Linux):
 
 <code>source venv/bin/activate</code>
 
