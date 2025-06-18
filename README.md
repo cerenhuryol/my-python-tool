@@ -1,7 +1,7 @@
 # my-python-tool
 ## Overview
 
-Python is a flexible and powerful programming language increasingly used in development research for data cleaning, analysis, visualization, and reproducible workflows. While Stata and R are commonly used in DIME, Python is ideal for data pipelines, API access, automation, and integrating with machine learning and natural language processing tools.
+Python is a flexible and powerful programming language increasingly used in development research for data cleaning, analysis, visualization, and reproducible workflows. While Stata and R are commonly used in development research, Python is ideal for data pipelines, API access, automation, and integrating with machine learning and natural language processing tools.
 
 ## Installation
 
@@ -38,15 +38,6 @@ Use <code>pip</code> to install packages, and document them in a requirements.tx
 ```python
 pip install pandas numpy matplotlib jupyter
 pip freeze > requirements.txt
-```
-
- 
-Or use <code>conda</code> if you're managing environments with Anaconda/Miniconda:
-
-```python
-conda create --name myenv python=3.10
-conda activate myenv
-conda install pandas numpy matplotlib jupyter
 ```
 
 
@@ -87,9 +78,11 @@ for name in names:
 
 Web scraping means to extract and arrange data from a web page. [Here](https://github.com/worldbank/dime-python-training/blob/main/I%20-%20Introduction/archive/web%20scraping%20example/Web-scraping%20basic%20example.ipynb) you can find a basic example for web scraping. For the training session recording, please refer to the related trainings. 
 
+## Additional Resources 
+* World Bank Development Economics' [Python course](https://github.com/worldbank/dec-python-course)
+
 ## Related DIME Analytics Trainings
 
 * [Intro to Python](https://osf.io/8sgrh/files/osfstorage/5fd2f84c0694b7013af371fd/)
 * [Introduction to Python and Web Scraping](https://osf.io/8sgrh/files/osfstorage/6040d32267386c040561d343/)
-* [Intro to APIs](https://osf.io/8sgrh/files/osfstorage/605c0b5dfbc498004a402ff7/)
-* [Stata integrations with R and Python](https://osf.io/m63t5)
+
