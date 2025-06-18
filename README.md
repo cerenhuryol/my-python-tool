@@ -101,14 +101,14 @@ print(name.upper())
 
 ## Loops in Python
 
-Loops are often used in automation, batch operations, and simulations. Use them responsibly—Python is slower than R or Stata for large, row-wise operations.
+Loops are often used in automation, batch operations, and simulations.
 
-##<code>for</code> loop
+### <code>for</code> loop
 ```python
 for i in range(5):
     print(i)
 ```
-##Looping Through Lists 
+### Looping Through Lists 
 ```python
 names = ['Alice', 'Bob', 'Ceren']
 for name in names:
