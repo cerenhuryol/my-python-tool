@@ -33,7 +33,7 @@ Once activated, you can install project-specific packages without affecting your
 
 ## Installing Packages
 
-Use <code>pip</code> to install packages, and document them in a requirements.txt file:
+Use <code>pip</code> on your Command Prompt to install packages, and document them in a requirements.txt file:
 
 ```python
 pip install pandas numpy matplotlib jupyter
