@@ -120,7 +120,7 @@ for name in names:
 Web scraping means to extract and arrange data from a web page. [Here](https://github.com/worldbank/dime-python-training/blob/main/I%20-%20Introduction/archive/web%20scraping%20example/Web-scraping%20basic%20example.ipynb) you can find a basic example for web scraping. For the training session recording, please refer to the related trainings. 
 
 ## Additional Resources 
-* World Bank Development Economics' [Python course](https://github.com/worldbank/dec-python-course)
+* World Bank Development Economics' [Python course](https://github.com/worldbank/dec-python-course) material
 
 ## Related DIME Analytics Trainings
 
