@@ -57,6 +57,16 @@ Understanding data types is key to avoiding bugs in analysis and loops. Keep in 
 
 Use `type(x)` to check the data type of a variable.
 
+You can assign values to variables and do mathematical calculations, the variables you create will be available in memory until you restart Python or explicitly delete it.
+For example:
+
+```python
+x = 10 
+y = 5 
+z = 10 + 5 
+z    # This will return 15
+```
+
 ## Methods 
 
 A method is a function that is associated with an object. You call it on the object, and it can use or modify that object’s data. In simple terms, a method is just a function that's tied to a specific data type or object.
