@@ -57,6 +57,21 @@ Understanding data types is key to avoiding bugs in analysis and loops. Keep in 
 
 Use `type(x)` to check the data type of a variable.
 
+## Methods 
+
+A method is a function that is associated with an object. You call it on the object, and it can use or modify that object’s data. In simple terms, a method is just a function that's tied to a specific data type or object.
+For example:
+```python
+object.method(arguments)
+```
+String method:
+```python
+country = "spain"
+print(name.upper())
+```
+<code>upper()</code> is a string method. It returns <code>"SPAIN"</code>, the uppercase version of our string. However, it does not change <code>country</code> if you don't assign the result of your function. 
+
+
 
 ## Loops in Python
 
