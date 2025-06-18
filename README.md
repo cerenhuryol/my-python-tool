@@ -67,6 +67,22 @@ z = 10 + 5
 z    # This will return 15
 ```
 
+Most common mathematical operations are listed below:
+
+| Operation             | Symbol / Function | Example        | Result |
+| --------------------- | ----------------- | -------------- | ------ |
+| Addition              | `+`               | `3 + 2`        | `5`    |
+| Subtraction           | `-`               | `7 - 4`        | `3`    |
+| Multiplication        | `*`               | `6 * 3`        | `18`   |
+| Division (float)      | `/`               | `7 / 2`        | `3.5`  |
+| Division (floor)      | `//`              | `7 // 2`       | `3`    |
+| Modulo (remainder)    | `%`               | `7 % 2`        | `1`    |
+| Power of              | `**`              | `2 ** 3`       | `8`    |
+| Absolute value        | `abs()`           | `abs(-7)`      | `7`    |
+| Round to whole number | `round()`         | `round(3.6)`   | `4`    |
+| Max value             | `max()`           | `max(2, 5, 1)` | `5`    |
+| Min value             | `min()`           | `min(2, 5, 1)` | `1`    |
+
 ## Methods 
 
 A method is a function that is associated with an object. You call it on the object, and it can use or modify that object’s data. In simple terms, a method is just a function that's tied to a specific data type or object.
