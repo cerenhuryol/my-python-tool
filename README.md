@@ -127,3 +127,4 @@ Web scraping means to extract and arrange data from a web page. [Here](https://g
 * [Intro to Python](https://osf.io/8sgrh/files/osfstorage/5fd2f84c0694b7013af371fd/)
 * [Introduction to Python and Web Scraping](https://osf.io/8sgrh/files/osfstorage/6040d32267386c040561d343/)
 * [Data processing in Python using Pandas](https://osf.io/yw5vs)
+* [Data pipelines in Python](https://osf.io/gt7dm)
