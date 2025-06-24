@@ -121,7 +121,7 @@ Web scraping means to extract and arrange data from a web page. [Here](https://g
 
 ## Additional Resources 
 * World Bank Development Economics' [Python course](https://github.com/worldbank/dec-python-course) material
-
+* DIME Analytics, World Bank [Python training](https://github.com/worldbank/dime-python-training)
 ## Related DIME Analytics Trainings
 
 * [Intro to Python](https://osf.io/8sgrh/files/osfstorage/5fd2f84c0694b7013af371fd/)
